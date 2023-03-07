@@ -4,7 +4,10 @@ layout: single
 permalink: /about/
 author_profile: true
 sidebar_main: true
+page_title : false
 ---
+
+
 
 # 안녕하세요. 웹, 앱, 인공지능 등 다양한 분야에 관심이 많은 학생입니다.
 
