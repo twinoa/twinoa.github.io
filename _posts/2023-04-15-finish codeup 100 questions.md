@@ -15,7 +15,7 @@ use_math: false
 # 2. 코드업 100제 문제 2개
 ## 6096 : [기초-리스트] 바둑알 십자 뒤집기
 ### 문제 링크
-https://codeup.kr/problem.php?id=6096
+<https://codeup.kr/problem.php?id=6096>
 
 ### 문제 설명
 부모님을 기다리던 영일이는 검정/흰 색 바둑알을 바둑판에 꽉 채워 깔아 놓고 놀다가...
@@ -67,7 +67,7 @@ for i in range(19) :
 
 ## 6098 : [기초-리스트] 성실한 개미
 ### 문제 링크
-https://codeup.kr/problem.php?id=6098
+<https://codeup.kr/problem.php?id=6098>
 
 ### 문제 설명 
 본 문제는 python 의 빠른 기초 학습을 위해 설계된 문제로서 python 코드 제출을 기준으로 설명되어 있습니다. 
@@ -147,6 +147,7 @@ while True :
 for i in range(10) :
     print(*arr[i])
 ```
+<br><br>
 
 # 3. 문제들을 풀어본 후기
 1. 코드업 기초 100제 문제는 교육 목적의 문제들로서 파이썬에 대한 개념이 확립안되어있는 상태에서도 풀기 좋다.
