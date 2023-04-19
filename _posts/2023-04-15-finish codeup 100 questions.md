@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "코드업 기초 100제 완료"
-categories: Coding Test
+categories: Coding
 tag: [coding test, python]
 use_math: false
 ---

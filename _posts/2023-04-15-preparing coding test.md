@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "코딩테스트 준비 시작"
-categories: Coding Test
+categories: Coding
 tag: [coding test, python]
 use_math: false
 ---
