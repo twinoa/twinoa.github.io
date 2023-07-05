@@ -1,3 +1,11 @@
+---
+layout: single
+title:  "[ML] 2-3. 모델 선택 - GridSearchCV"
+categories: ML
+tag: [Machine Learning, Scikit-learn, 모델 선택]
+use_math: false
+---
+
 ## GridSearchCV
 데이터 세트를 cross-validation을 위한 학습/테스트 세트로 자동으로 분할한 뒤에 하이퍼 파라미터 그리드에 기술된 모든 파라미터를 순차적으로 적용해 최적의 파라미터를 찾을 수 있게 도와줌
 
